@@ -1,2 +1,3 @@
-# meu-dia-notas-site
-Política de privacidade e suporte da extensão Meu Dia — Notas
+# Meu Dia — Notas
+
+Página pública de privacidade e contato da extensão.
